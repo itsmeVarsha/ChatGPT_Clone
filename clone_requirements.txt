@@ -1,0 +1,5 @@
+install these libraries
+    just write on your terminal these commands --->
+openai - pip install openai
+gradio - pip install gradio
+os  - pip install os-sys
